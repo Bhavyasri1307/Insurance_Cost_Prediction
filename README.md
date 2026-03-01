@@ -1,5 +1,4 @@
 # Insurance Cost Prediction - Machine Learning Project
-Machine Learning project to predict insurance cost using python
 
 ## Tools Used:
 - Python
